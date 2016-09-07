@@ -2,3 +2,5 @@
 /data
 old.py
 capstone.todo
+._*
+.DS_Store
